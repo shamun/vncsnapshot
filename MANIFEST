@@ -1,0 +1,13 @@
+Files included in this archive:
+
+BUGS
+CHANGE-LOG.txt
+MANIFEST
+README
+README_bin
+RELEASE-NOTES-1.1.txt
+RELEASE-NOTES.txt
+bin/vncpasswd
+bin/vncsnapshot
+html/vncsnapshot.html
+man/vncsnapshot.man1

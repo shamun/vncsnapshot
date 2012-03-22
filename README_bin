@@ -1,0 +1,8 @@
+In the bin directory is a version of vncsnapshot compiled for Linux Intel
+(x86) systems. It is statically linked and should run on any system.
+
+html directory contains a HTML version (a copy of the vncsnapshot
+home page, in fact).
+
+vncsnapshot's home page is http://vncsnapshot.sourceforge.net.
+
