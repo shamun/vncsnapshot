@@ -28,3 +28,24 @@ On Windows systems, please read BUILD.win32.
 On Unix and Linux systems, please read BUILD.unix.
 
 < $Id: README,v 1.4 2004/09/09 00:22:33 grmcdorman Exp $ >
+
+USE
+---
+
+$ vncpasswd 
+Password:
+Verify:
+
+$ ./vncsnapshot -passwd ~/.vnc/passwd -rect 640x0+120+30 192.x.x.x subarea.jpeg
+VNC server supports protocol version 3.8 (viewer 3.3)
+VNC authentication succeeded
+Desktop name "sun:0.0"
+Connected to VNC server, using protocol version 3.3
+VNC server default format:
+  32 bits per pixel.
+  Least significant byte first in each pixel.
+  True colour: max red 255 green 255 blue 255, shift red 16 green 8 blue 0
+  32 bits per pixel.
+  Least significant byte first in each pixel.
+  True colour: max red 255 green 255 blue 255, shift red 0 green 8 blue 16
+can't open subarea.jpeg
